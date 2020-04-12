@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/bin/Debug/netcoreapp3.0/LeetTwo.deps.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/bin/Debug/netcoreapp3.0/LeetTwo.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/bin/Debug/netcoreapp3.0/LeetTwo.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/bin/Debug/netcoreapp3.0/LeetTwo.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/bin/Debug/netcoreapp3.0/LeetTwo.pdb
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/obj/Debug/netcoreapp3.0/LeetTwo.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/obj/Debug/netcoreapp3.0/LeetTwo.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/obj/Debug/netcoreapp3.0/LeetTwo.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/obj/Debug/netcoreapp3.0/LeetTwo.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/leetTwo/LeetTwo/obj/Debug/netcoreapp3.0/LeetTwo.pdb

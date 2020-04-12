@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/bin/Debug/netcoreapp3.0/LeetOne.deps.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/bin/Debug/netcoreapp3.0/LeetOne.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/bin/Debug/netcoreapp3.0/LeetOne.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/bin/Debug/netcoreapp3.0/LeetOne.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/bin/Debug/netcoreapp3.0/LeetOne.pdb
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/obj/Debug/netcoreapp3.0/LeetOne.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/obj/Debug/netcoreapp3.0/LeetOne.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/obj/Debug/netcoreapp3.0/LeetOne.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/obj/Debug/netcoreapp3.0/LeetOne.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/LeetOne/LeetOne/obj/Debug/netcoreapp3.0/LeetOne.pdb

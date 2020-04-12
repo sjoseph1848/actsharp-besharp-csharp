@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/bin/Debug/netcoreapp3.0/Language.deps.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/bin/Debug/netcoreapp3.0/Language.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/bin/Debug/netcoreapp3.0/Language.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/bin/Debug/netcoreapp3.0/Language.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/bin/Debug/netcoreapp3.0/Language.pdb
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/obj/Debug/netcoreapp3.0/Language.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/obj/Debug/netcoreapp3.0/Language.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/obj/Debug/netcoreapp3.0/Language.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/obj/Debug/netcoreapp3.0/Language.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Language/obj/Debug/netcoreapp3.0/Language.pdb

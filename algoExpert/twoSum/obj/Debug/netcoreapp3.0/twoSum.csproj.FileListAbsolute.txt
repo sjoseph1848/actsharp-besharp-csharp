@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/bin/Debug/netcoreapp3.0/twoSum.deps.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/bin/Debug/netcoreapp3.0/twoSum.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/bin/Debug/netcoreapp3.0/twoSum.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/bin/Debug/netcoreapp3.0/twoSum.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/bin/Debug/netcoreapp3.0/twoSum.pdb
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/obj/Debug/netcoreapp3.0/twoSum.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/obj/Debug/netcoreapp3.0/twoSum.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/obj/Debug/netcoreapp3.0/twoSum.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/obj/Debug/netcoreapp3.0/twoSum.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/algoExpert/twoSum/obj/Debug/netcoreapp3.0/twoSum.pdb

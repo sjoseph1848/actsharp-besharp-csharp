@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samueljoseph/Desktop/NardRev/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/GradeBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/GradeBook.csproj",
+        "packagesPath": "/Users/samueljoseph/.nuget/packages/",
+        "outputPath": "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/samueljoseph/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samueljoseph/Desktop/NardRev/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samueljoseph/Desktop/NardRev/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "projectName": "GradeBook.Tests",
+        "projectPath": "/Users/samueljoseph/Desktop/NardRev/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "packagesPath": "/Users/samueljoseph/.nuget/packages/",
+        "outputPath": "/Users/samueljoseph/Desktop/NardRev/gradebook/test/GradeBook.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/samueljoseph/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/GradeBook.csproj": {
+                "projectPath": "/Users/samueljoseph/Desktop/NardRev/gradebook/src/GradeBook/GradeBook.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

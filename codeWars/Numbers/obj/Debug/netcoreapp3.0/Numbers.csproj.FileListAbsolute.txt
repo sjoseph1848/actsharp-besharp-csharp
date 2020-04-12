@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/bin/Debug/netcoreapp3.0/Numbers.deps.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/bin/Debug/netcoreapp3.0/Numbers.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/bin/Debug/netcoreapp3.0/Numbers.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/bin/Debug/netcoreapp3.0/Numbers.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/bin/Debug/netcoreapp3.0/Numbers.pdb
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/obj/Debug/netcoreapp3.0/Numbers.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/obj/Debug/netcoreapp3.0/Numbers.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/obj/Debug/netcoreapp3.0/Numbers.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/obj/Debug/netcoreapp3.0/Numbers.dll
+/Users/samueljoseph/Desktop/NardRev/leetThirty/codeWars/Numbers/obj/Debug/netcoreapp3.0/Numbers.pdb
