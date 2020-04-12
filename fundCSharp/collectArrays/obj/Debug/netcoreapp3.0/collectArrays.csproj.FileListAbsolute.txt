@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/bin/Debug/netcoreapp3.0/collectArrays.deps.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/bin/Debug/netcoreapp3.0/collectArrays.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/bin/Debug/netcoreapp3.0/collectArrays.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/bin/Debug/netcoreapp3.0/collectArrays.dll
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/bin/Debug/netcoreapp3.0/collectArrays.pdb
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/obj/Debug/netcoreapp3.0/collectArrays.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/obj/Debug/netcoreapp3.0/collectArrays.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/obj/Debug/netcoreapp3.0/collectArrays.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/obj/Debug/netcoreapp3.0/collectArrays.dll
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/collectArrays/obj/Debug/netcoreapp3.0/collectArrays.pdb
