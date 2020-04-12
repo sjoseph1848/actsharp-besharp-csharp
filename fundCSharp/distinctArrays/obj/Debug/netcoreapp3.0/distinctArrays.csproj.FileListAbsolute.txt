@@ -1,0 +1,10 @@
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/bin/Debug/netcoreapp3.0/distinctArrays.deps.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/bin/Debug/netcoreapp3.0/distinctArrays.runtimeconfig.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/bin/Debug/netcoreapp3.0/distinctArrays.runtimeconfig.dev.json
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/bin/Debug/netcoreapp3.0/distinctArrays.dll
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/bin/Debug/netcoreapp3.0/distinctArrays.pdb
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/obj/Debug/netcoreapp3.0/distinctArrays.csprojAssemblyReference.cache
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/obj/Debug/netcoreapp3.0/distinctArrays.AssemblyInfoInputs.cache
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/obj/Debug/netcoreapp3.0/distinctArrays.AssemblyInfo.cs
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/obj/Debug/netcoreapp3.0/distinctArrays.dll
+/Users/samueljoseph/Desktop/NardRev/actsharp-besharp-csharp/fundCSharp/distinctArrays/obj/Debug/netcoreapp3.0/distinctArrays.pdb
